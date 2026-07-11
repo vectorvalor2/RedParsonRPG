@@ -29,7 +29,7 @@ SAFE SIMULATED GAME DEVELOPMENT ENVIRONMENT
 
 Core Layers Scene ├─ MapLayer │ ├─ terrainGrid │ ├─ portals │ └─ collisionShell │ ├─ AssetLayer │ ├─ models │ ├─ props │ ├─ animations │ └─ materials │ ├─ SafetyLayer │ ├─ redBoundingCubes │ ├─ safeSpawnZones │ └─ rollbackPoints │ ├─ TransformLayer │ ├─ greenDashedCheckpoints │ ├─ rotationVectors │ └─ timeStepStates │ └─ RenderLayer ├─ blueWireframeMode ├─ clipSpaceProjection └─ debugToggle
 
-Interlock/interlink % interject ui components -> scene hierarchy, asset browser, material editor, scene modifier, projects, textures, performance, console, and GUI settings running on top of the safe simulated environment
+Inject ui components -> scene hierarchy, asset browser, material editor, scene modifier, projects, textures, performance, console, and GUI settings running on top of the safe simulated environment
 
 Inject the safe simulated game development environment utilizing core layers to build the workflow
 
