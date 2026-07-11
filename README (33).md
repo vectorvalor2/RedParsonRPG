@@ -45,9 +45,9 @@ Build a responsive marketing landing page and make the engine dashboard adaptive
 
 Build an NPC behavior editor with a node-based AI scripting system
 
-Build project templates for managing, monitoring, identifying, and indicing separation of concerns and cross-cutting concerns to the safe simulated game development environment, as for generating scene hierarchies in scenes, gaming simulations are rendered up to 4k from an architected code generation provisioner, that keeps the engine modular and allows different generation services to be plugged in without coupling the editor to one AI model
+Build project templates for managing, monitoring, and automating separation of concerns and cross-cutting concerns for the safe simulated game development environment, as for generating scene hierarchies in scenes, gaming simulations are rendered up to 4k from an architected code generation provisioner, that keeps the engine modular and allows different generation services to be plugged in without coupling the editor to one AI model
 
-Build a scene modifier to extract assets out of projects to generate 3D scenes, game levels, simulations, and particle systems to the engine viewport
+Build a scene modifier to extract assets out of projects to generate 3D scenes, game levels, simulations, and particle systems to engine viewports
 
 Build the sandbox into a full diagram (CI/CD → sandbox zones with asset registry, safety bounds, transform checkpoints → MVP clip space → safe render output)
 
