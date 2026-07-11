@@ -1,4 +1,4 @@
-REDPARSON GAME ENGINE:
+REDPARSON GAME ENGINE: Proceed with building parts in order and/or coding in phases. Continue coding phases step by step onto completion...
 
 /3D computer graphics software suite and game engine core/
 
